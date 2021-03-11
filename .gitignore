@@ -1,0 +1,6 @@
+.mypy_cache/
+ __pycache__
+my_env/
+.vscode/
+.txt
+Etapas.txt
